@@ -1,9 +1,6 @@
 <p align="center">
   <h1 align="center">Ahoy!  👋</h1>
 </p>
-<p>I am a PhD student studying Enviromental Inteligence at Exeter University.</p>
-
-#### A little more about me
 ```javascript
 let nathanael = {
   pronouns: "He" | "Him",
