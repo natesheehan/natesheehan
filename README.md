@@ -1,7 +1,9 @@
 <p align="center">
   <h1 align="center">Ahoy!  👋</h1>
 </p>
+
 #### Digital me
+
 ```javascript
 let nathanael = {
   pronouns: "He" | "Him",
