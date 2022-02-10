@@ -8,10 +8,6 @@
 let nathanael = {
   pronouns: "He" | "Him",
   code: ["Javascript", "R", "Kotlin", "HTML", "CSS"],
-  askMeAbout: ["web dev", "data ethics", "data science", "transport", "R"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Kotlin", "3D Animations"],
-      backend: ["Kotlin", "JS"],
-  }
+  interests: ["web dev", "data ethics", "data science", "transport", "R"],
 }
 ```
